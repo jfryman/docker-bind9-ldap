@@ -5,3 +5,4 @@ build:
 
 push:
 	@docker push quay.io/docker/bind:latest
+
